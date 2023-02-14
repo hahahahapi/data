@@ -1,0 +1,23 @@
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 4 processes
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 4 processes
+
+INTEGER   Copy:      5920.13 MB/s
+INTEGER   Scale:     5916.35 MB/s
+INTEGER   Add:       6085.49 MB/s
+INTEGER   Triad:     6163.64 MB/s
+---
+INTEGER   AVERAGE:   6021.40 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 4 processes
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 4 processes
+
